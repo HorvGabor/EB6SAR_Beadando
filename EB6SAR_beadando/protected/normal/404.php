@@ -1,0 +1,1 @@
+<h1 class="text-center text">Whoops! It's a 404. <br>You are not allowed to be here!</h1>

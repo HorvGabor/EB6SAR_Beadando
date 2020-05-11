@@ -1,0 +1,1 @@
+These are our latest game news!
